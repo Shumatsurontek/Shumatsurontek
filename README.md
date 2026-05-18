@@ -1,6 +1,6 @@
 # Arthur — AI/LLM Engineer
 
-**Building production LLM systems at [Tiime](https://www.tiime.fr)** | MS Electrical Engineering, INSA Lyon
+**Building production LLM systems| MS Electrical Engineering, INSA Lyon
 
 I design and ship agent architectures, retrieval pipelines, and evaluation frameworks for real-world accounting automation.
 
